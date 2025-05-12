@@ -12,6 +12,6 @@ new Vue({
     //addTodoメソッドを追加
 
     //resetTextメソッドを追加
-    
+     
   }
 });
